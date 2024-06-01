@@ -1,2 +1,2 @@
 # Shader-Macro
-defineの定義とかをまとめた谷内
+defineの定義とかをまとめた
